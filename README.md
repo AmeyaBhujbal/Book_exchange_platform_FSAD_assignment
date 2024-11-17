@@ -1,6 +1,3 @@
-# Book_exchange_platform_FSAD_assignment
-A book exchange platform: BITS Mtech Software Engineering, FSAD
-
 <h1 align="center">
   <br>
     <img src="./images/book-4986.png">
@@ -70,4 +67,7 @@ npm start
 
 - **Ameya Bhujbal**
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
