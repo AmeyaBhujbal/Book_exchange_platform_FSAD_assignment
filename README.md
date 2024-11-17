@@ -67,7 +67,3 @@ npm start
 
 - **Ameya Bhujbal**
 
-<<<<<<< HEAD
-
-=======
->>>>>>> master
